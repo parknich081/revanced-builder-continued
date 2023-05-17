@@ -1,6 +1,7 @@
-# ReVanced Builder
+# ReVanced Builder Continued
 
 This project will allow you to download the APK of any of the [officially supported](https://github.com/revanced/revanced-patches#-patches) apps and build ReVanced easily!
+This project was originally maintained by reisxd, but after a sudden archiving of the github i've decided to fork it.
 
 ## Required
 
